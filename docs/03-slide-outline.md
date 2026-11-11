@@ -1,0 +1,1 @@
+1. Title & team · 2. The problem (shifting seasons) · 3. Who it's for · 4. NASA data used · 5. How it works (pipeline + scoring) · 6. Live demo screenshots · 7. What-if scenarios · 8. Impact · 9. Limits & validation plan · 10. Roadmap & thanks

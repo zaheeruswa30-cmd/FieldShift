@@ -1,0 +1,5 @@
+- Add SMAP soil moisture and MODIS NDVI time series (Earthdata login) for field-level validation.
+- Daily data and extreme-event statistics instead of monthly means.
+- CMIP6 climate projections for 2030/2050 scenarios.
+- Soil, variety and market-price layers; SMS/WhatsApp alerts for farmers.
+- Validate crop rules with agronomists and local extension officers.
