@@ -1,0 +1,7 @@
+// Add a language: copy the 'en' block, translate, and add a toggle option in App.jsx.
+export const I18N = {
+  en: { overview: 'Farm overview', map: 'NASA satellite map', shift: 'Climate shift', crops: 'Crop suitability', calendar: 'Planting calendar', water: 'Water planner', risks: 'Risk alerts', actions: 'What to change', scenario: 'What-if scenario', impact: 'Impact', health: 'Farm health score', launch: 'Launch dashboard', farmer: 'Farmer mode', print: 'Download report', about: 'Methodology', temp: 'Warming', rain: 'Rainfall change', search: 'Search a region or type lat, lon' },
+  ur: { overview: 'فارم کا جائزہ', map: 'ناسا سیٹلائٹ نقشہ', shift: 'موسمی تبدیلی', crops: 'فصلوں کی موزونیت', calendar: 'کاشت کا کیلنڈر', water: 'پانی کی منصوبہ بندی', risks: 'خطرے کی اطلاعات', actions: 'کیا تبدیل کریں', scenario: 'اگر ایسا ہو تو', impact: 'اثرات', health: 'فارم صحت اسکور', launch: 'ڈیش بورڈ کھولیں', farmer: 'کسان موڈ', print: 'رپورٹ ڈاؤن لوڈ کریں', about: 'طریقہ کار', temp: 'درجہ حرارت میں اضافہ', rain: 'بارش میں تبدیلی', search: 'علاقہ تلاش کریں یا lat, lon لکھیں' },
+};
+Object.assign(I18N.en, { farms: 'My farms', compare: 'Compare regions', alerts: 'Alerts', planner: 'Farm planner', assistant: 'Assistant', settings: 'Settings' });
+Object.assign(I18N.ur, { farms: 'میرے کھیت', compare: 'علاقوں کا موازنہ', alerts: 'اطلاعات', planner: 'فارم پلانر', assistant: 'مددگار', settings: 'ترتیبات' });
